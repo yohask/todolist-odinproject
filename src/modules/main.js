@@ -12,15 +12,15 @@ export const mainList = (() => {
                 name: 'Monday',
                 todoList: [
                     {
-                        title: 'Feed the Cat',
-                        description: 'Fish Tacos',
-                        dueDate: '2021-12-20',
+                        title: 'Feed the Frog',
+                        description: 'Frog Ribbit',
+                        dueDate: '2024-1-09',
                         priority: 'high'
                     },
                     {
                         title: 'Go to Work',
                         description: 'Look Alive',
-                        dueDate: '2021-12-20',
+                        dueDate: '2024-1-24',
                         priority: ''
                     }
                 ]
