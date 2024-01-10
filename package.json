@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/janebui/odin-todo.git"
+    "url": "git+https://github.com/yohask/todolist-odinproject"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/janebui/odin-todo/issues"
+    "url": "https://github.com/yohask/todolist-odinproject"
   },
-  "homepage": "https://github.com/janebui/odin-todo#readme",
+  "homepage": "https://github.com/yohask/todolist-odinproject",
   "devDependencies": {
     "css-loader": "^6.2.0",
     "date-fns": "^2.23.0",
